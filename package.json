@@ -1,0 +1,26 @@
+{
+  "name": "js-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.16",
+    "multer": "^1.3.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Node JS SDK that implements the functions for the Datamotion Messaging API.",
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": []
+}
